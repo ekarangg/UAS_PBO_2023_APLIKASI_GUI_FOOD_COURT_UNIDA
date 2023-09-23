@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="522" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="630" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="jLabel28" min="-2" pref="80" max="-2" attributes="0"/>
+                                              <EmptySpace max="32767" attributes="0"/>
+                                              <Component id="jLabel29" min="-2" pref="91" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="cbxgreentea" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                                  <Component id="cbxthaitea" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                                  <Component id="cbxesdawet" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                                  <Component id="cbxpopice" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                                  <Component id="cbxjusjeruk" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                                  <Component id="cbxjustomat" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                                  <Component id="cbxjuswortel" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                                  <Component id="cbxjusalpukat" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                                  <Component id="cbxjusnaga" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                                  <Component id="cbxjussirsak" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                                  <Component id="cbxjusjambu" alignment="0" min="-2" pref="140" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="148" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                  <Component id="jLabel32" pref="80" max="32767" attributes="0"/>
+                                                  <Component id="jLabel33" max="32767" attributes="0"/>
+                                                  <Component id="jLabel34" max="32767" attributes="0"/>
+                                                  <Component id="jLabel35" max="32767" attributes="0"/>
+                                                  <Component id="jLabel36" max="32767" attributes="0"/>
+                                                  <Component id="jLabel37" max="32767" attributes="0"/>
+                                                  <Component id="jLabel38" max="32767" attributes="0"/>
+                                                  <Component id="jLabel39" max="32767" attributes="0"/>
+                                                  <Component id="jLabel40" max="32767" attributes="0"/>
+                                                  <Component id="jLabel41" max="32767" attributes="0"/>
+                                                  <Component id="jLabel42" max="32767" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jLabel30" min="-2" pref="80" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah23" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah24" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah25" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah26" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah27" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah28" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah29" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah30" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah31" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah32" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah33" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah34" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel27" min="-2" pref="101" max="-2" attributes="0"/>
+                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jButton_logout" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="cbxesteh" alignment="0" max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="cbxnasiikan" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxtempegrg" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxtatembacem" alignment="0" pref="140" max="32767" attributes="0"/>
+                                          <Component id="cbxtahubakso" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxayamgprk" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxayamlava" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxayam" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxikan" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxsayuran" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxorekterong" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxbasobiasa" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxmiebaso" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxbasoberanak" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxmieayam" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxmieabakso" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxmieaceker" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxrotibakar" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="cbxnasi" max="32767" attributes="0"/>
+                                          <Component id="cbxnasiayam" max="32767" attributes="0"/>
+                                          <Component id="cbxnasicampur" max="32767" attributes="0"/>
+                                          <Component id="cbxnasitelur" max="32767" attributes="0"/>
+                                          <Component id="jLabel1" alignment="0" min="-2" pref="101" max="-2" attributes="0"/>
+                                          <Component id="cbxchickenkatsu" alignment="0" max="32767" attributes="0"/>
+                                      </Group>
+                                      <Component id="jLabel2" min="-2" pref="80" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="148" pref="148" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="jLabel3" min="-2" pref="80" max="-2" attributes="0"/>
+                                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                          </Group>
+                                          <Component id="jLabel5" max="32767" attributes="0"/>
+                                          <Component id="jLabel6" max="32767" attributes="0"/>
+                                          <Component id="jLabel7" max="32767" attributes="0"/>
+                                          <Component id="jLabel8" max="32767" attributes="0"/>
+                                          <Component id="jLabel9" max="32767" attributes="0"/>
+                                          <Component id="jLabel10" max="32767" attributes="0"/>
+                                          <Component id="jLabel11" max="32767" attributes="0"/>
+                                          <Component id="jLabel12" max="32767" attributes="0"/>
+                                          <Component id="jLabel13" max="32767" attributes="0"/>
+                                          <Component id="jLabel14" max="32767" attributes="0"/>
+                                          <Component id="jLabel15" max="32767" attributes="0"/>
+                                          <Component id="jLabel16" max="32767" attributes="0"/>
+                                          <Component id="jLabel17" max="32767" attributes="0"/>
+                                          <Component id="jLabel18" max="32767" attributes="0"/>
+                                          <Component id="jLabel19" max="32767" attributes="0"/>
+                                          <Component id="jLabel20" max="32767" attributes="0"/>
+                                          <Component id="jLabel21" max="32767" attributes="0"/>
+                                          <Component id="jLabel22" max="32767" attributes="0"/>
+                                          <Component id="jLabel23" max="32767" attributes="0"/>
+                                          <Component id="jLabel24" max="32767" attributes="0"/>
+                                          <Component id="jLabel25" alignment="1" max="32767" attributes="0"/>
+                                          <Component id="jLabel26" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jLabel4" min="-2" pref="80" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah1" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                              <Component id="txfjumlah3" alignment="0" pref="0" max="32767" attributes="0"/>
+                                              <Component id="txfjumlah2" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Component id="txfjumlah4" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah5" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah6" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah7" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah8" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah9" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah10" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah11" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah12" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah13" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah14" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah15" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah16" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah17" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah18" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah19" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah20" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah21" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="txfjumlah22" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel31" min="-2" pref="80" max="-2" attributes="0"/>
+                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="211" max="-2" attributes="0"/>
+                      <Component id="jButton_order" min="-2" pref="75" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jButton_logout" max="32767" attributes="0"/>
+                          <Component id="jPanel3" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel3" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
+                              <Component id="jLabel4" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel2" min="-2" pref="25" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah1" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel5" max="32767" attributes="0"/>
+                          <Component id="cbxnasi" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah2" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel6" max="32767" attributes="0"/>
+                          <Component id="cbxnasicampur" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah3" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel7" max="32767" attributes="0"/>
+                          <Component id="cbxnasitelur" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah4" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel8" max="32767" attributes="0"/>
+                          <Component id="cbxnasiayam" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah5" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel9" max="32767" attributes="0"/>
+                          <Component id="cbxnasiikan" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah6" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel10" max="32767" attributes="0"/>
+                          <Component id="cbxtempegrg" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah7" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel11" max="32767" attributes="0"/>
+                          <Component id="cbxtatembacem" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah8" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel12" max="32767" attributes="0"/>
+                          <Component id="cbxtahubakso" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah9" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel13" max="32767" attributes="0"/>
+                          <Component id="cbxayamgprk" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah10" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel14" max="32767" attributes="0"/>
+                          <Component id="cbxayamlava" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah11" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel15" max="32767" attributes="0"/>
+                          <Component id="cbxayam" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah12" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel16" max="32767" attributes="0"/>
+                          <Component id="cbxikan" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah13" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel17" max="32767" attributes="0"/>
+                          <Component id="cbxsayuran" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah14" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel18" max="32767" attributes="0"/>
+                          <Component id="cbxorekterong" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah15" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel19" max="32767" attributes="0"/>
+                          <Component id="cbxbasobiasa" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah16" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel20" max="32767" attributes="0"/>
+                          <Component id="cbxmiebaso" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah17" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel21" max="32767" attributes="0"/>
+                          <Component id="cbxbasoberanak" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah18" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel22" max="32767" attributes="0"/>
+                          <Component id="cbxmieayam" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah19" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel23" max="32767" attributes="0"/>
+                          <Component id="cbxmieabakso" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah20" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel24" max="32767" attributes="0"/>
+                          <Component id="cbxmieaceker" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah21" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel25" max="32767" attributes="0"/>
+                          <Component id="cbxrotibakar" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jLabel26" max="32767" attributes="0"/>
+                          <Component id="txfjumlah22" pref="30" max="32767" attributes="0"/>
+                          <Component id="cbxchickenkatsu" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Component id="jLabel27" min="-2" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jLabel30" pref="25" max="32767" attributes="0"/>
+                          <Component id="jLabel29" max="32767" attributes="0"/>
+                          <Component id="jLabel28" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah23" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel31" max="32767" attributes="0"/>
+                          <Component id="cbxesteh" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah24" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel32" max="32767" attributes="0"/>
+                          <Component id="cbxgreentea" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah25" pref="31" max="32767" attributes="0"/>
+                          <Component id="jLabel33" max="32767" attributes="0"/>
+                          <Component id="cbxthaitea" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah26" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel34" max="32767" attributes="0"/>
+                          <Component id="cbxesdawet" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah27" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel35" max="32767" attributes="0"/>
+                          <Component id="cbxpopice" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah28" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel36" max="32767" attributes="0"/>
+                          <Component id="cbxjusjeruk" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah29" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel37" max="32767" attributes="0"/>
+                          <Component id="cbxjustomat" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah30" pref="29" max="32767" attributes="0"/>
+                          <Component id="jLabel38" max="32767" attributes="0"/>
+                          <Component id="cbxjuswortel" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah31" pref="31" max="32767" attributes="0"/>
+                          <Component id="jLabel39" max="32767" attributes="0"/>
+                          <Component id="cbxjusalpukat" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah32" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel40" max="32767" attributes="0"/>
+                          <Component id="cbxjusnaga" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah33" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel41" max="32767" attributes="0"/>
+                          <Component id="cbxjussirsak" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfjumlah34" pref="30" max="32767" attributes="0"/>
+                          <Component id="jLabel42" max="32767" attributes="0"/>
+                          <Component id="cbxjusjambu" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="33" max="32767" attributes="0"/>
+                      <Component id="jButton_order" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel3">
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel_fullname" pref="433" max="32767" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel_fullname" max="32767" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel_fullname">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Trebuchet MS" size="16" style="0"/>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Trebuchet MS" size="20" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="MAKANAN"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="MENU"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="HARGA"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="JUMLAH"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxnasi">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nasi"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxnasicampur">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nasi Campur"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxnasitelur">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nasi Telur"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxnasiayam">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nasi Ayam"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxnasiikan">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nasi Ikan"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxtempegrg">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Tempe Goreng"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxtatembacem">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Tahu Tempe Bacem"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxtahubakso">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Tahu Bakso"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxayamgprk">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Ayam Geprek"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxayamlava">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Ayam Hot Lava"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxayam">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Ayam"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxikan">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Ikan"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxsayuran">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Sayuran"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxorekterong">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Orek / terong"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxbasobiasa">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Bakso Biasa"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxmiebaso">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Mie Bakso"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxbasoberanak">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Bakso Beranak"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxmieayam">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Mie Ayam"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxmieabakso">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Mie Ayam Bakso"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxmieaceker">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Mie Ayam Ceker"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxrotibakar">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Roti Bakar"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 5.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel6">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 8.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 8.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 12.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 11.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel10">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 1.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel11">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 1.500"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel12">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 2.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel13">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 8.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel14">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 8.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel15">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 7.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel16">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 6.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel17">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 2.500"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel18">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 3.500"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel19">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 9.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel20">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 11.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel21">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 15.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel22">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 10.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel23">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 12.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel24">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 13.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel25">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 5.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxchickenkatsu">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Chicken Katsu"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel26">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 10.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah1">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah2">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah3">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah4">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah5">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah6">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah7">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah8">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah9">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah10">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah11">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah12">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah13">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah14">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah15">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah16">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah17">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah18">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah19">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah20">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah21">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah22">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel27">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Trebuchet MS" size="20" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="MINUMAN"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel28">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="MENU"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel29">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="HARGA"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel30">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="JUMLAH"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxesteh">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Es Teh"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxgreentea">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Green Tea"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxthaitea">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Thai Tea"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxesdawet">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Es Dawet"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxpopice">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Pop Ice"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxjusjeruk">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Jus Jeruk"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxjustomat">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Jus Tomat"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxjuswortel">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Jus Wortel"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxjusalpukat">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Jus Alpukat"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxjusnaga">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Jus Naga"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxjussirsak">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Jus Sirsak"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="cbxjusjambu">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Jus Jambu"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel31">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 2.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel32">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 5.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel33">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 5.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel34">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 5.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel35">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 3.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel36">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 7.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel37">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 6.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel38">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 6.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel39">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 8.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel40">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 8.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel41">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 9.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel42">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="ff" red="cc" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Rp. 9.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah23">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah24">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah25">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah26">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah27">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah28">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah29">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah30">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah31">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah32">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah33">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txfjumlah34">
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton_order">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Pesan"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton_orderActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton_logout">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tw Cen MT" size="30" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="X"/>
+                <Property name="horizontalTextPosition" type="int" value="0"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton_logoutActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
